@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220935795190",
+    "project_id": "pdfview-cc592",
+    "storage_bucket": "pdfview-cc592.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220935795190:android:060a6254dbc533343997d7",
+        "android_client_info": {
+          "package_name": "com.example.pdf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF0xJodsFTBeSPT9DhGdGHAsS85GzSTok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
